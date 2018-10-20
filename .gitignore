@@ -103,6 +103,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# specific IntelliJ files
 .ds_store
 *.idea
 *.iml
+
+# config files
+.yaml
